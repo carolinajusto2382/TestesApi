@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "cypress": "^14.1.0"
+    "cypress": "^14.1.0",
+    "start": "npx http-server -p 3000"
   }
 }
